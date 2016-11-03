@@ -1,0 +1,2 @@
+# fachinformatiker_systemintegration_ausbildungsplan
+Ausbildungsplan und Übersichtsliste über den nötigen Wissensstand für Fachinformatiker Systemintegration
